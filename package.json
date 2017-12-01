@@ -1,7 +1,7 @@
 {
   "name": "janhoogeveen-portfolio",
   "version": "0.1.0",
-  "homepage": "http://janhoogeveen.eu/janhoogeveen-portfolio/",
+  "homepage": "http://janhoogeveen.eu/",
   "private": true,
   "dependencies": {
     "react": "16.2.0",
